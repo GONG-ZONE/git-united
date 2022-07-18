@@ -1,5 +1,5 @@
 # git-united
-_git_과 **git-hub**의 사용법을 연습
+_git과 **git-hub**의 사용법을 연습
 
 git-home, git-office, git-member, ~~git-member2~~를 사용
 
