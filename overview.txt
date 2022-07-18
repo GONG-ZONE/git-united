@@ -2,7 +2,7 @@ made at git-home
 
 modified at git-office
 
-with hmitgong
+added git-member
 
 ============
 updated 
