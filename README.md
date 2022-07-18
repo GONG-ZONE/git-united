@@ -45,3 +45,7 @@ git-home, git-office, git-member, ~~git-member2~~를 사용
 [google](https://google.com)
 
 [google](https://google.com,"구글")
+
+---
+
+![김여누](http://jedidiah.dothome.co.kr/kyw500/img/10.png)
