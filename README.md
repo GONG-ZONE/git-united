@@ -24,3 +24,16 @@ git-home, git-office, git-member, ~~git-member2~~를 사용
 ---
 
 소스코드는 `<html></html>` 이렇게
+
+여러줄의 소스코드는
+
+```html
+<html>
+  <head>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+이렇게
