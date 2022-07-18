@@ -1,9 +1,12 @@
-made by git-home
+made at git-home
 
-with hmitgong git-office
+modified at git-office
+
+with hmitgong
 
 ============
 updated 
 ------
+220718 1445
 220718 1344
 220718 1337
