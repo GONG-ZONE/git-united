@@ -1,6 +1,6 @@
-홈에서 제작됨
+made by git-home
 
-hmitgong과 함께 작업하기 위한 초석
+with hmitgong git-office
 
 ============
 updated 
