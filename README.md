@@ -9,7 +9,7 @@ git-home, git-office, git-member, ~~git-member2~~를 사용
 
 ### 소제목
 
-이렇게 사용해도되는 것인가
+> 이렇게 사용해도되는 것인가
 
 ***
 
